@@ -4,4 +4,5 @@
 - [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
 - [MySQLTuner-Windows](https://github.com/pmachapman/mysqltuner)
 
-
+### Профилировщики
+- [Neon ProfileSQL](http://www.profilesql.com/)  - Бесплатный профилировщик MySQL (к сожалению автор забросил, но работает хорошо)
